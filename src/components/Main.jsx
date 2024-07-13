@@ -7,6 +7,7 @@ export const Main = ({ titulo = "lista 1" }) => {
     const [items, setItems] = useState([]);
     const [total, setTotal] = useState(0);
 
+    /*
     const forzarValores = () => {
         setItems([
             {
@@ -26,6 +27,8 @@ export const Main = ({ titulo = "lista 1" }) => {
             },
         ]);
     };
+    */
+   
     const forzarValoresCero = () => {
         localStorage.clear();
         setItems([]);
