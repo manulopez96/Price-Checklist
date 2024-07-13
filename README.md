@@ -2,6 +2,8 @@
 
 Esta es una aplicación de lista de precios desarrollada con React en el frontend y Node.js en el backend.
 
+![Front capture](/assets/img/capture%20front.jpg)
+
 ## Estructura del Proyecto
 
 El proyecto está dividido en dos partes principales: `back` (backend) y `front` (frontend).
