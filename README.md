@@ -12,10 +12,6 @@ El proyecto está dividido en dos partes principales: `back` (backend) y `front`
 
 El directorio `back` contiene el servidor backend de la aplicación.
 
--   `index.js`: Archivo principal del servidor Node.js.
--   `package.json`: Archivo de configuración del proyecto Node.js, contiene las dependencias y scripts del backend.
--   `package-lock.json`: Archivo que asegura la instalación de las dependencias en la versión exacta especificada.
-
 En desarrollo todavia.
 
 ### Frontend (`front`)
