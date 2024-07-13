@@ -1,0 +1,7 @@
+
+# ignorar carpetas
+node_modules
+
+# Ignorar formatos
+.env
+
